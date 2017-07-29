@@ -4,14 +4,4 @@ test merge
 
 test
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 remove test of s word
-=======
-
-test for s
->>>>>>> Stashed changes
-=======
-
-test for s
->>>>>>> Stashed changes
