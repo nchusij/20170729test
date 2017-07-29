@@ -4,4 +4,13 @@ test merge
 
 test
 
+<<<<<<< HEAD
 remove test of s word
+=======
+<<<<<<< Updated upstream
+remove test of s word
+=======
+
+test for s
+>>>>>>> Stashed changes
+>>>>>>> e60f278... aaaaa
