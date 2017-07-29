@@ -2,4 +2,9 @@ test
 
 test
 
+<<<<<<< Updated upstream
 remove test of s word
+=======
+
+test for s
+>>>>>>> Stashed changes
